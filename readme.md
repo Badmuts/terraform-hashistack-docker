@@ -1,0 +1,3 @@
+# Terraform Hashistack Docker Swarm [![Build Status](https://travis-ci.org/Badmuts/terraform-hashistack-docker-swarm.svg?branch=master)](https://travis-ci.org/Badmuts/terraform-hashistack-docker-swarm)
+
+This repo is used to learn how Docker swarm can be managed via Terraform. Goal is to use the complete [Hashistack](https://www.hashicorp.com/devops-defined/) to manage a docker swarm cluster with an simple sample application.
